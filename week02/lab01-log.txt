@@ -1,0 +1,205 @@
+    1  root
+    2  cd
+    3  pwd
+    4  ls
+    5  ls -Force
+    6  pwd
+    7  ls
+    8  ls-Force
+    9  ls -a
+   10  ls -l
+   11  cd Desktop/
+   12  cd Home/
+   13  cd being
+   14  cd C project/
+   15  ls -a
+   16  ls -l
+   17  cd Desktop/
+   18  cd /mnt/c/Users
+   19  ls
+   20  cd /mnt/c/Users/<YourWindowsUsername>/Desktop
+   21  cd /mnt/c/Users/being/Desktop
+   22  pwd
+   23  ls
+   24  ls -l
+   25  ls -a
+   26  cd Home/
+   27  cd /mnt/c/Users/being/Home
+   28  cd /mnt/c/Users/being/VSCODE TRY
+   29  exit
+   30  ls
+   31  cd Desktop/
+   32  ls -a
+   33  ls -l
+   34  cd Downloads/
+   35  cd Videos/
+   36  cd Videos
+   37  cd Documents/
+   38  pwd
+   39  cd ../Downloads
+   40  ls
+   41  cd ../Desktop
+   42  midir
+   43  mkdir
+   44  mkdir coding-cafe
+   45  ls
+   46  cd ../coding-cafe
+   47  cd coding-cafe
+   48  pwd
+   49  cd
+   50  pwd
+   51  exit
+   52  cd ../Desktop
+   53  cd Desktop
+   54  cd coding-cafe
+   55  cd Desktop
+   56  cd Desktop/
+   57  cd ../Desktop
+   58  pwd
+   59  ls
+   60  ls -a
+   61  cd ..
+   62  cd Desktop
+   63  cd coding-cafe
+   64  cd ..
+   65  cd Documents
+   66  ls
+   67  cd League of Legends
+   68  cd ..
+   69  cd Desktop
+   70  cd coding-cafe/
+   71  clr
+   72  clear
+   73  cd ..
+   74  cd Desktop/coding-cafe/
+   75  mkdir week01/
+   76  ls
+   77  mkdir week02/
+   78  ls
+   79  cd week2
+   80  cd week02
+   81  cd ../week01
+   82  mkdir notes.md/
+   83  ls
+   84  cd ../week02
+   85  touch notes.md/
+   86  touch notes.md
+   87  ls
+   88  code notes.md
+   89  code week02
+   90  cd ..
+   91  cd ../Downloads
+   92  ls
+   93  ls -a
+   94  ../Documents
+   95  cd ../Documents
+   96  ls
+   97  cd 'League of Legends'
+   98  ls
+   99  cd Highlights
+  100  ls
+  101  cd ..
+  102  [$[$RANDOM % 6] == 0 ] && cd Desktop || echo "You live"
+  103  cd Desktop
+  104  cd coding-cafe/
+  105  mkdir README.md
+  106  ls
+  107  ls coding-cafe/week02
+  108  cd ..
+  109  ls -l
+  110  cd coding-cafe/
+  111  ls coding-cafe/week02
+  112  cd week02
+  113  ls coding-cafe/week02
+  114  ls
+  115  cd ..
+  116  ls coding-cafe/week02
+  117  cd coding-cafe/
+  118  cp README.md README-backup.md
+  119  mv README-backup.md week01/
+  120  ls
+  121  cp README.md README-backup.md
+  122  cd README.md/
+  123  cp README.md README-backup.md
+  124  pwd
+  125  cd ..
+  126  rmdir README.md
+  127  ls
+  128  touch README.md
+  129  ls -l
+  130  cp README.md README-backup.md
+  131  ls
+  132  mv README-backup.md week01/
+  133  cd week1
+  134  cd week01
+  135  ls
+  136  mv README-backup.md old-readme.md
+  137  ls
+  138  rm old-readme.md
+  139  ls
+  140  echo $PATH
+  141  which python3
+  142  which pip
+  143  which ls
+  144  echo "$PATH" | tr ':' '\n' | wc -l
+  145  pyton3
+  146  cd ~/coding-cafe
+  147  cd ..
+  148  cd ~/coding-cafe
+  149  cd /mnt/c/Users/being/Desktop/coding-cafe
+  150  pwd
+  151  cd coding-cafe
+  152  python3 -m venv .venv
+  153  apt install python3.14-venv
+  154  sudo apt install python3.14-venv
+  155  python3 --version
+  156  apt-cache policy python3-venv
+  157  sudo apt update
+  158  sudo apt install python3-venv
+  159  rm -rf .venv
+  160  python3 -m venv .venv
+  161  source .venv/bin/activate
+  162  python3 --version
+  163  sudo apt update
+  164  sudo apt install python3-venv
+  165  rm -rf .venv
+  166  python3 -m venv .venv
+  167  python3 -m ensurepip --upgrade
+  168  apt policy python3.14-venv
+  169  cd ~
+  170  mkdir venv-test
+  171  cd venv-test
+  172  python3 -m venv .venv
+  173  source .venv/bin/activate
+  174  deactivate
+  175  rm -rf ~/venv-test
+  176  cp -r /mnt/c/Users/being/Desktop/coding-cafe ~/coding-cafe
+  177  cd ~/coding-cafe
+  178  python3 -m venv .venv
+  179  source .venv/bin/activate
+  180  ls
+  181  ls -a
+  182  source .venv/bin/activate
+  183  which python3
+  184  pip list
+  185  pip install
+  186  pip install requests
+  187  pwd
+  188  deactivate
+  189  rm -rf .venv
+  190  python3 -m venv .venv
+  191  source .venv/bin/activate
+  192  which python3
+  193  which pip
+  194  pip install requests
+  195  pip list
+  196  deactivate
+  197  which python3
+  198  man ls
+  199  ls -h
+  200  man man
+  201  cd ..
+  202  cd coding-cafe/
+  203  history
+  204  python3
+  205  history > week02/lab01-log.txt
